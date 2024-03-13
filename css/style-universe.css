@@ -1,0 +1,12 @@
+@import url(../style.css);
+
+body {
+  background-image: url(../assets/bg-universe-jpg.jpg);
+  transition: background-image 3ms ease;
+}
+
+nav a:nth-child(3) {
+  color: var(--text-hover-color);
+  font-weight: bold;
+}
+
